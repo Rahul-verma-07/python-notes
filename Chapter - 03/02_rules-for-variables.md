@@ -10,7 +10,7 @@ Variable names in Python must follow certain rules.
 
 - Alphabets (`a-z`, `A-Z`)
 - Digits (`0-9`)
-- Underscore (`_`)
+- Underscore (`_`) 
 
 ## Example
 
