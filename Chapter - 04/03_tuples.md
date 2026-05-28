@@ -13,13 +13,13 @@ tu = (7, 3.14, "RV")
 ```
 
 ```text
- Value →     7      3.14     "RV"
-              |       |       |
-Data Type → <int>  <float>  <str>
-              |       |       |
-Index →       0       1       2
-              |       |       |
-Neg Index →  -3      -2      -1
+ Value →      7     3.14     "RV"
+              |       |        |
+Data Type → <int>  <float>   <str>
+              |       |        |
+Index →       0       1        2
+              |       |        |
+Neg Index →  -3      -2       -1
 ```
 
 > Tuple indexing works exactly like lists and strings.
