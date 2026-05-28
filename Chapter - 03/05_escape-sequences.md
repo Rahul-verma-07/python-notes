@@ -1,6 +1,6 @@
 # Escape Sequence Characters in Python
 
-Escape sequence characters are special characters used inside strings with a backslash `\`.
+Escape sequence characters are special characters used inside strings with a backslash `\`
 
 They are used to format text in different ways.
 
