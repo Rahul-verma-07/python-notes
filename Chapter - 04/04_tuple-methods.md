@@ -274,3 +274,4 @@ do not modify the original tuple.
 | `sum()` | Returns sum of elements |
 | `sorted()` | Returns sorted list |
 | `reversed()` | Returns reversed iterator |
+ 
