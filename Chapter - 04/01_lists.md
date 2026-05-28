@@ -209,6 +209,6 @@ In the above example:
 li[2] = "Python"
 ```
 
-changes the value at index `2`.
+changes the value at index `2`
 
 Unlike strings, lists can be modified easily.
