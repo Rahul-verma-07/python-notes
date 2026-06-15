@@ -21,3 +21,48 @@ Otherwise:
 ```
 
 This type of decision-making is done using conditional expressions.
+
+---
+
+# Example
+
+```python
+marks = 75
+
+if marks >= 40:
+    print("Passed")
+```
+
+---
+
+## Output
+
+```text
+Passed
+```
+
+---
+
+# Real-Life Examples
+
+Conditional expressions are used in many situations, such as:
+
+- Checking voting eligibility
+- Login authentication
+- ATM transactions
+- Checking pass/fail status
+- Age verification
+- Game decision making
+
+---
+
+# Types of Conditional Statements
+
+Python provides the following conditional statements:
+
+1. `if`
+2. `if-else`
+3. `if-elif-else`
+4. Nested `if`
+
+---
