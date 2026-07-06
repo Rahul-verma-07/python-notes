@@ -201,3 +201,4 @@ Write your own function to find the **Greatest Common Divisor (GCD)** of two num
 ```text
 6
 ```
+---
